@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862709434149",
+    "firebase_url": "https://sampleimagedetection-578b9.firebaseio.com",
+    "project_id": "sampleimagedetection-578b9",
+    "storage_bucket": "facedetectmlsample-578b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862709434149:android:0cd4208b21121041",
+        "android_client_info": {
+          "package_name": "com.asmaahamed.facedetectmlsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862709434149-gkq9kihjgp7emu66sm39677nic9hji7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJVYnmq_9CbED1KY883-IjtR0nGzpR6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862709434149-gkq9kihjgp7emu66sm39677nic9hji7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
